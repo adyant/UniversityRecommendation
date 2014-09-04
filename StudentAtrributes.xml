@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attributes depth="3">
+	<attr name="Activity" id="1" weight="10" must="1">
+		<attr_1 name="Clubs" id="1" weight="10" must="1">
+			<attr_1_1 name="SpeechDebate" id="1" weight="10"></attr_1_1>
+			<attr_1_1 name="Stockmarket" id="2" weight="10"></attr_1_1>
+			<attr_1_1 name="Robotics" id="3" weight="10"></attr_1_1>
+			<attr_1_1 name="Speech" id="4" weight="10"></attr_1_1>
+			<attr_1_1 name="Culture" id="5" weight="10"></attr_1_1>
+			<attr_1_1 name="Choir" id="6" weight="10"></attr_1_1>
+			<attr_1_1 name="Intramurals" id="7" weight="10"></attr_1_1>
+			<attr_1_1 name="MarchingBand" id="8" weight="10"></attr_1_1>
+			<attr_1_1 name="GayStraightAlliance" id="9" weight="10"></attr_1_1>
+			<attr_1_1 name="Key" id="10" weight="10"></attr_1_1>
+			<attr_1_1 name="Cooking" id="11" weight="10"></attr_1_1>
+			<attr_1_1 name="Yearbook" id="12" weight="10"></attr_1_1>
+			<attr_1_1 name="VideoGame" id="13" weight="10"></attr_1_1>
+			<attr_1_1 name="Interact" id="14" weight="10"></attr_1_1>
+			<attr_1_1 name="Anime" id="15" weight="10"></attr_1_1>
+			<attr_1_1 name="Photography" id="16" weight="10"></attr_1_1>
+			<attr_1_1 name="Newspaper" id="17" weight="10"></attr_1_1>
+			<attr_1_1 name="Journalism" id="18" weight="10"></attr_1_1>
+			<attr_1_1 name="BoardGame" id="19" weight="10"></attr_1_1>
+			<attr_1_1 name="Book" id="20" weight="10"></attr_1_1>
+			<attr_1_1 name="Drama" id="21" weight="10"></attr_1_1>
+			<attr_1_1 name="Environment" id="22" weight="10"></attr_1_1>
+			<attr_1_1 name="StudentGovt" id="23" weight="10"></attr_1_1>
+			<attr_1_1 name="AutoShop" id="24" weight="10"></attr_1_1>
+			<attr_1_1 name="BeatBoxing" id="25" weight="10"></attr_1_1>
+			<attr_1_1 name="ScienceEngg" id="26" weight="10"></attr_1_1>
+			<attr_1_1 name="HomeEconomics" id="27" weight="10"></attr_1_1>
+			<attr_1_1 name="DECA" id="28" weight="10"></attr_1_1>
+			<attr_1_1 name="BeatBoxing" id="29" weight="10"></attr_1_1>
+			<attr_1_1 name="GraphicDesign" id="30" weight="10"></attr_1_1>
+			<attr_1_1 name="Math" id="31" weight="10"></attr_1_1>
+			<attr_1_1 name="Chemistry" id="32" weight="10"></attr_1_1>
+			<attr_1_1 name="Politics" id="33" weight="10"></attr_1_1>
+			<attr_1_1 name="History" id="34" weight="10"></attr_1_1>
+			<attr_1_1 name="Biology" id="35" weight="10"></attr_1_1>
+			<attr_1_1 name="Physics" id="36" weight="10"></attr_1_1>
+			<attr_1_1 name="English" id="37" weight="10"></attr_1_1>
+			<attr_1_1 name="Physics" id="38" weight="10"></attr_1_1>
+			<attr_1_1 name="Film" id="39" weight="10"></attr_1_1>
+			<attr_1_1 name="InternationalAffairs" id="40" weight="10"></attr_1_1>
+			<attr_1_1 name="AudioVisual" id="41" weight="10"></attr_1_1>
+			<attr_1_1 name="English" id="42" weight="10"></attr_1_1>
+			<attr_1_1 name="Physics" id="43" weight="10"></attr_1_1>
+			<attr_1_1 name="Film" id="44" weight="10"></attr_1_1>
+			<attr_1_1 name="InternationalAffairs" id="45" weight="10"></attr_1_1>
+			<attr_1_1 name="RedCross" id="46" weight="10"></attr_1_1>
+			<attr_1_1 name="JuniorStateofAmerica" id="47" weight="10"></attr_1_1>
+			<attr_1_1 name="Cancer" id="48" weight="10"></attr_1_1>
+			<attr_1_1 name="FutureScientistandEngineersofAmerica" id="49"
+				weight="10"></attr_1_1>
+			<attr_1_1 name="Radio" id="50" weight="10"></attr_1_1>
+		</attr_1>
+		<attr_1 name="Athletics" id="2" weight="10" must="1">
+			<attr_1_2 name="Football" id="1" weight="10"></attr_1_2>
+			<attr_1_2 name="Soccer" id="2" weight="10"></attr_1_2>
+			<attr_1_2 name="Basketball" id="3" weight="10"></attr_1_2>
+			<attr_1_2 name="Baseball" id="4" weight="10"></attr_1_2>
+			<attr_1_2 name="Volleyball" id="5" weight="10"></attr_1_2>
+			<attr_1_2 name="TrackField" id="6" weight="10"></attr_1_2>
+			<attr_1_2 name="CrossCountry" id="7" weight="10"></attr_1_2>
+			<attr_1_2 name="Swimming" id="8" weight="10"></attr_1_2>
+			<attr_1_2 name="WaterPolo" id="9" weight="10"></attr_1_2>
+			<attr_1_2 name="Wrestling" id="10" weight="10"></attr_1_2>
+			<attr_1_2 name="FieldHockey" id="11" weight="10"></attr_1_2>
+			<attr_1_2 name="Gymnastics" id="12" weight="10"></attr_1_2>
+			<attr_1_2 name="Softball" id="13" weight="10"></attr_1_2>
+			<attr_1_2 name="Lacrosse" id="14" weight="10"></attr_1_2>
+			<attr_1_2 name="Tennis" id="15" weight="10"></attr_1_2>
+			<attr_1_2 name="Golf" id="16" weight="10"></attr_1_2>
+			<attr_1_2 name="Fencing" id="17" weight="10"></attr_1_2>
+			<attr_1_2 name="Softball" id="18" weight="10"></attr_1_2>
+			<attr_1_2 name="Badminton" id="19" weight="10"></attr_1_2>
+			<attr_1_2 name="TableTennis" id="20" weight="10"></attr_1_2>
+			<attr_1_2 name="Diving" id="21" weight="10"></attr_1_2>
+			<attr_1_2 name="Rowing" id="22" weight="10"></attr_1_2>
+			<attr_1_2 name="Cricket" id="23" weight="10"></attr_1_2>
+		</attr_1>
+		<attr_1 name="Hobbies" id="3" weight="10" must="1">
+			<attr_1_3 name="Painting" id="1" weight="10"></attr_1_3>
+			<attr_1_3 name="Piano" id="2" weight="10"></attr_1_3>
+			<attr_1_3 name="Guitar" id="3" weight="10"></attr_1_3>
+			<attr_1_3 name="BoyScouts" id="4" weight="10"></attr_1_3>
+			<attr_1_3 name="Competitions" id="5" weight="10"></attr_1_3>
+			<attr_1_3 name="Saxophone" id="6" weight="10"></attr_1_3>
+			<attr_1_3 name="Clarinet" id="7" weight="10"></attr_1_3>
+			<attr_1_3 name="Trombone" id="8" weight="10"></attr_1_3>
+			<attr_1_3 name="Trumpet" id="9" weight="10"></attr_1_3>
+			<attr_1_3 name="Choir" id="10" weight="10"></attr_1_3>
+			<attr_1_3 name="Drama" id="11" weight="10"></attr_1_3>
+			<attr_1_3 name="Photography" id="12" weight="10"></attr_1_3>
+			<attr_1_3 name="Magic" id="13" weight="10"></attr_1_3>
+			<attr_1_3 name="Ceramics" id="14" weight="10"></attr_1_3>
+			<attr_1_3 name="Woodworking" id="15" weight="10"></attr_1_3>
+			<attr_1_3 name="Yoga" id="16" weight="10"></attr_1_3>
+			<attr_1_3 name="Writing" id="17" weight="10"></attr_1_3>
+			<attr_1_3 name="Modelbuilding" id="18" weight="10"></attr_1_3>
+			<attr_1_3 name="DigitalArts" id="19" weight="10"></attr_1_3>
+			<attr_1_3 name="Ballet" id="20" weight="10"></attr_1_3>
+			<attr_1_3 name="HipHopdance" id="21" weight="10"></attr_1_3>
+			<attr_1_3 name="Surfing" id="22" weight="10"></attr_1_3>
+			<attr_1_3 name="RockClimbing" id="23" weight="10"></attr_1_3>
+			<attr_1_3 name="Culturaldance" id="24" weight="10"></attr_1_3>
+			<attr_1_3 name="Drums" id="25" weight="10"></attr_1_3>
+			<attr_1_3 name="DiscJockey" id="26" weight="10"></attr_1_3>
+			<attr_1_3 name="Archery" id="27" weight="10"></attr_1_3>
+			<attr_1_3 name="Chess" id="28" weight="10"></attr_1_3>
+			<attr_1_3 name="Fishing" id="29" weight="10"></attr_1_3>
+			<attr_1_3 name="Hiking" id="30" weight="10"></attr_1_3>
+			<attr_1_3 name="Parkour" id="31" weight="10"></attr_1_3>
+			<attr_1_3 name="Karate" id="32" weight="10"></attr_1_3>
+		</attr_1>
+	</attr>
+	<attr name="Performance" id="2" weight="10" must="1">
+		<attr_2 name="GPA" id="1" weight="10" must="1">
+			<attr_2_1 name="History" id="1" weight="4"></attr_2_1>
+			<attr_2_1 name="Economics" id="2" weight="4"></attr_2_1>
+			<attr_2_1 name="Sciences" id="3" weight="4"></attr_2_1>
+			<attr_2_1 name="English" id="4" weight="4"></attr_2_1>
+			<attr_2_1 name="Arts" id="5" weight="4"></attr_2_1>
+			<attr_2_1 name="Mathematics" id="6" weight="4"></attr_2_1>
+			<attr_2_1 name="VisualArts" id="7" weight="4"></attr_2_1>
+			<attr_2_1 name="PerformingArts" id="8" weight="4"></attr_2_1>
+			<attr_2_1 name="Philosophy" id="9" weight="4"></attr_2_1>
+			<attr_2_1 name="Psychology" id="10" weight="4"></attr_2_1>
+			<attr_2_1 name="Sociology" id="11" weight="4"></attr_2_1>
+
+		</attr_2>
+		<attr_2 name="Tests" id="2" weight="10" must="1">
+			<attr_2_2 name="SAT" id="1" weight="2400"></attr_2_2>
+			<attr_2_2 name="ACT" id="2" weight="36"></attr_2_2>
+			<attr_2_2 name="SubjectSAT" id="3" weight="800"></attr_2_2>
+
+		</attr_2>
+	</attr>
+	<attr name="Constraints" id="3" weight="10" must="1">
+		<attr_3 name="Tuition" id="1" weight ="10" must="1">
+			<attr_3_1 name="MaxFees" id="1" weight="35000"></attr_3_1>
+		</attr_3>
+		<attr_3 name="Distance" id="2" weight="10" must="1">
+			<attr_3_2 name="MaxDist" id="1" weight="400"></attr_3_2>
+		</attr_3>
+
+
+	</attr>
+</Attributes>
